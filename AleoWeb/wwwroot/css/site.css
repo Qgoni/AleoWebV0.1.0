@@ -1,0 +1,324 @@
+html {
+    margin: auto;
+    font-size: 14px;
+}
+
+img:hover {
+    outline: 3px solid #4C5168;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+html {
+    max-width: 1500px;
+    min-width: 1450px;
+    margin: auto;
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin: auto;
+    background-color: #12141D;
+    margin-bottom: 60px;
+}
+
+.logo-img{
+    margin-top: 60px;
+    margin-left:60px;
+    width:46px;
+    height:41px;
+}
+.Aleo-img {
+    width: 46px;
+    height: 41px;
+}
+.Main-txt {
+    margin-top: 130px;
+}
+.Main-txtS {
+    font-weight: 700;
+    margin-top: 140px;
+    color: white;
+    font-size: 96px;
+    text-align: center;
+}
+.Second-text{
+    margin-top: 400px;
+}
+.Second-textS {
+    text-align: center;
+    color: #3E4255;
+    font-size: 32px;
+}
+.Third-text{
+    margin-top: 20px;
+}
+.Third-textS {
+    text-align: center;
+    color: #3E4255;
+    font-size: 32px;
+}
+.line-1 {
+    position:center;
+    background-color: #191B25;
+    height: 8px;
+    margin-top: 90px;
+    margin-left: 2%;
+    margin-right: 2%; 
+    border-radius:53px;
+}
+.text-center {
+    margin-top: 100px;
+}
+.info {
+    text-align: center;
+    color: #3E4255;
+    font-size: 32px;
+}
+.st-1{
+    margin-top: 120px;
+    margin-left: 4%;
+}
+.st-1tx{
+    font-size: 32px;
+    font-weight: 400;
+    color: white;
+    text-align:left;
+}
+.st-2 {
+    margin-top: 40px;
+    margin-left: 4%;
+}
+.st-2tx {
+    font-size: 32px;
+    font-weight: 400;
+    color: white;
+    text-align: left;
+}
+.st-3 {
+    margin-top: 40px;
+    margin-left: 4%;
+}
+.st-3tx {
+    font-size: 32px;
+    font-weight: 400;
+    color: white;
+    text-align: left;
+}
+.st-4 {
+    margin-top: 100px;
+    margin-right:4%;
+    float:right;
+}
+
+.st-4tx {
+    float: right;
+    text-align: left;
+    font-size: 32px;
+    font-weight: 400;
+    color: white;
+}
+.st-5 {
+    margin-right: 195px;
+    margin-top: -120px;
+    float: right;
+}
+.st-5tx {
+    float: right;
+    text-align: left;
+    font-size: 32px;
+    font-weight: 400;
+    color: white;
+}
+.line-2 {
+    position: center;
+    background-color: #191B25;
+    height: 8px;
+    margin-top: 160px;
+    margin-left: 2%;
+    margin-right: 2%;
+    border-radius: 53px;
+}
+.medium {
+    margin-top: 65px;
+}
+.medium-tx {
+    text-align: center;
+    color: #3E4255;
+    font-size: 32px;
+}
+.aleopackagemanager {
+
+    margin-right: 80px;
+    float: right;
+}
+.aleopackagemanager-img {
+    width: 212px;
+    height: 123px;
+}
+.aleostudio {
+    margin-top: 180px;
+    margin-right: -170px;
+    float: right;
+}
+.aleostudio-img {
+    margin-right: -42px;
+    width: 212px;
+    height: 121px;
+}
+.amba {
+    margin-top: 360px;
+    margin-right: -170px;
+    float: right;
+}
+.amba-img {
+    margin-right: -42px;
+    width: 212px;
+    height: 118px;
+}
+.div-4{
+    margin-right:40px;
+}
+.exp {
+    margin-left: 700px;
+    margin-top: 55px;
+    margin-right: 80px;
+    text-align:center;
+}
+.exp-img {
+    width: 212px;
+    height: 123px;
+}
+.doc {
+    margin-left: 450px;
+    margin-top: 55px;
+    margin-right: 80px;
+    text-align: center;
+}
+.doc-img {
+    width: 212px;
+    height: 118px;
+}
+.hello {
+    margin-left: 450px;
+    margin-top: 52px;
+    margin-right: 80px;
+    text-align: center;
+}
+.hello-img {
+    width: 212px;
+    height: 118px;
+}
+.div-3 {
+    margin-top: 10px;
+}
+.PoSW {
+    margin-right: 272px;
+    margin-top: -466px;
+    text-align: center;
+}
+.PoSW-img {
+    width: 212px;
+    height: 123px;
+}
+.SharkOS {
+    margin-right: 272px;
+    margin-top: -66px;
+    text-align: center;
+}
+.SharkOS-img {
+    margin-top: 121px;
+    width: 212px;
+    height: 118px;
+}
+.tech {
+    margin-right: 280px;
+    margin-top: -66px;
+    text-align: center;
+}
+.tech-img {
+    margin-top: 121px;
+    width: 213px;
+    height: 114px;
+}
+.div-2{
+    margin-right: 50px;
+}
+.ZkCloud{
+    margin-top: -469px;
+    margin-left: 120px;
+}
+.ZkCloud-img {
+    margin-top: 4px;
+    width: 213px;
+    height: 123px;
+}
+.i228 {
+    margin-left: 120px;
+}
+.i228-img {
+    margin-top: 55px;
+    width: 213px;
+    height: 118px;
+}
+.wallet {
+    margin-left: 120px;
+}
+.wallet-img {
+    margin-top: 55px;
+    width: 213px;
+    height: 116px;
+}
+.line-3 {
+    position: center;
+    background-color: #191B25;
+    height: 8px;
+    margin-top: 140px;
+    margin-left: 2%;
+    margin-right: 2%;
+    border-radius: 53px;
+}
+.twitter {
+    margin-right:100px;
+    display: inline-block;
+    height: 60px;
+    Width: 60px;
+}
+.twitter-img {
+
+    height: 60px;
+    Width: 60px;
+}
+.mediums {
+    display: inline-block;
+    height: 60px;
+    Width: 60px;
+}
+.medium-img {
+
+    height: 60px;
+    Width: 60px;
+}
+.git {
+    margin-left: 100px;
+    display: inline-block;
+    height: 60px;
+    Width: 60px;
+}
+.git-img {
+    height: 60px;
+    Width: 60px;
+}
+.foo{
+    margin-top: 20px;
+ text-align:center;   
+}
+
+
+
+
